@@ -4,7 +4,6 @@
 * Reviewer: [Benjamin Corter](https://github.com/bjcorter)
 
 !!! note "Overview"
-
     This tutorial will help you:
     - Create a **blank directory** and initialize a new **Git repository** into it
     - Set up a **Dev Container** with the official Rust image and 'rust-analyzer'
@@ -17,8 +16,7 @@
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - Basic Git knowledge
 
-!!! warning "No Rust install on Host"
-
+!!! note "No Rust install on Host"
     **DO NOT** install Rust locally. We will install & run everything in a dev container.
 
 ---
