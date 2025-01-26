@@ -9,3 +9,14 @@
     - Set up a **Dev Container** with the official Rust image and 'rust-analyzer'
     - Write a basic program that will print **Hello COMP423**
     - Understand the difference between 'cargo build' and 'cargo run'
+
+## Prerequisites 
+
+- [Visual Studio Code]()
+- [Docker Desktop] ()
+- Basic Git knowledge
+
+!!! warning "No Rust install on Host"
+    **DO NOT** install Rust locally. We will install & run everything in a dev container.
+
+---
